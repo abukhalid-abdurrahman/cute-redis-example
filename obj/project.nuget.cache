@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QQWkgIf3yYwufEAbev4jdZ3i+TfqT/pb4HFV9RhaleTUFXnMRj9MhLi7acJntsldZrEYXvxYJao/bd6bwJRg5Q==",
+  "dgSpecHash": "nSvJso7LDXEIO9IKztKfzr7FyiL3WUDX3OHGWV+cSwyW9liIIhaaAEtq4VjxgUNvWEkN9CmRvhFGhIvbnk+6/g==",
   "success": true,
-  "projectFilePath": "E:\\Faridun's Projects\\Faridun's\\Back-End\\Redis\\Redis.csproj",
+  "projectFilePath": "E:\\Faridun's Projects\\Faridun's\\Back-End\\cute-redis-example\\CuteRedisExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

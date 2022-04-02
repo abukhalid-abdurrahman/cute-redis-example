@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\admin\\.nuget\\packages\\": {},
@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Faridun's Projects\\Faridun's\\Back-End\\Redis\\Redis.csproj",
-      "projectName": "Redis",
-      "projectPath": "E:\\Faridun's Projects\\Faridun's\\Back-End\\Redis\\Redis.csproj",
+      "projectUniqueName": "E:\\Faridun's Projects\\Faridun's\\Back-End\\cute-redis-example\\CuteRedisExample.csproj",
+      "projectName": "CuteRedisExample",
+      "projectPath": "E:\\Faridun's Projects\\Faridun's\\Back-End\\cute-redis-example\\CuteRedisExample.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Faridun's Projects\\Faridun's\\Back-End\\Redis\\obj\\",
+      "outputPath": "E:\\Faridun's Projects\\Faridun's\\Back-End\\cute-redis-example\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -27,14 +27,14 @@
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net5.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -45,8 +45,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
